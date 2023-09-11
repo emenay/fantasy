@@ -7,3 +7,8 @@ Includes the following stats:
 - Lowest scoring team
 - Player with the largest difference between projected and actual points
 - Most points left on the bench
+
+Must install the following packages:
+- pandas
+- espnfantasyfootball
+- numpy
